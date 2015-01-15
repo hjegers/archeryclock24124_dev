@@ -1,0 +1,192 @@
+End
+Arrow
+P
+Turn
+Double ends? (for example on long distances where 2 times 3 arrows  are shot before getting them  from the target). 
+Seconds Green
+Seconds Orange
+Seconds Red
+Seconds Total
+Archers per target
+Archer
+Settings
+Minutes / Seconds?
+Save as startup setting.
+Hide Icons.
+Use PC speaker for Buzzer.
+Waiting time.
+Shooting time:
+Shoot off time (per arrow):
+[A] 1 archer per turn 1 turn per end
+[A-B] 1 archer per turn 2 turns per end
+[A-B-C] 1 archer per turn 3 turns per end
+[A-B-C-D] 1 archer per turn 4 turns per end
+[AB-CD] 2 archers per turn 2 turns per end
+1 archer per target.
+1 archer per turn 2 turns per end
+1 archer per turn 3 turns per end
+1 archer per turn 4 turns per end
+2 archers per turn 2 turns per end Get arrows after every end
+2 archers per turn 2 X 2 turns per end. (Get arrows after every 2 ends). Typically used on long distances where 6 arrows are shot before getting the arrows. But in this case still 3 arrows in 2 minutes.
+2 archers per turn 2 turns per end shooting 6 arrows in a row in 4 minutes. So every end has 6 arrows. Practice is only 1 end of 6 arrows.
+Individual final round. (Alternating) Fixed time per arrow. 
+Team Final round. (Alternating) Fixed time per end. Paused timing when other team is shooting.
+25m1P system with 4 archers on a target.
+25m1P system with 5 archers on a target.
+25m1P system with 6 archers on a target.
+Save current settings as F8 settings.
+Practice ends
+FITA
+FITA Finals (Alternating)
+25m1p
+Timing
+Shoot off timing
+Timing and sequence
+Double time
+Double turns
+show:
+Target number
+Arrow only
+Name
+Left side-Right side
+Time per turn /arrow (individual round)
+Time per end (team round)
+Turns per end. 
+Use BCD lights as ROG lights on right side. (For V2 Hardware only)
+Choose
+Save current settings as F1 settings.
+Save current settings as F2 settings.
+Save current settings as F3 settings.
+Save current settings as F4 settings.
+Save current settings as F5 settings.
+Save current settings as F6 settings.
+Save current settings as F7 settings.
+Save current settings as F8 settings.
+Save current settings as F9 settings.
+Save current settings as F10 settings.
+Save current settings as F11 settings.
+Save current settings as F12 settings.
+Use ABCD lights for 1st 4 archers.
+Match starts in
+Minutes
+min.
+screen layout
+Sound
+Scenario
+Countdown to start match
+Language
+Traffic Light
+Use traffic light on screen
+Show hints
+Sound via PC speaker
+Test
+Countdown time before start of match:
+start
+Menu disappears after  
+Seconds
+Switch to previous end
+Switch to next end
+Stop Timer
+Pause Timer
+Resume Timer
+Start Timer
+Next archer
+Stop last turn of this end
+Connect hardware
+Switch to previous archer
+Switch to next archer
+Reset to first (practice) end.
+Activate Archer A
+Activate Archer B
+Activate Archer C
+Activate Archer D
+Resize
+Close program
+  Press space bar or click "Start Timer" button to start the countdown  
+  Choose starting archer by click on an arrow.  
+Left side
+Right side
+Match starts in
+select right side archer
+select left side archer
+  Press space bar or click "Next archer" button to finish this turn and move to next turn.    
+  Press space bar or click "Stop last turn of this end" button to finish this end.    
+Connecting
+Connected
+Card not found
+Card
+Start countdown always between ends.
+Start every end with sequence AB....
+About
+Hardware
+select red
+select orange
+select green
+one signal
+two signals
+three signals
+emergency stop
+sound signals
+select red settings
+select orange settings
+select green settings
+external hardware controll
+button 1 (pause)
+button 2 (stop)
+button 3 (next)
+button 4 (archer)
+button 5 (archer)
+Manual
+Follow
+Stop
+in follow mode, this screen uses the input of an external screen/computer via serial or network connection.
+Select location of this screen in the area
+Left side area
+Right side area
+Red
+Orange
+Green
+1 sound signal
+2 sound signals
+3 sound signals
+emergency stop
+left screen
+right screen
+both screens
+Receive input signal from:
+serial
+network (LAN)
+Activate Archer E
+Activate Archer F
+[A-B-C-D-E] 1 archer per turn 5 turns per end
+[A-B-C-D-E-F] 1 archer per turn 6 turns per end
+[AB-CD-EF] 2 archers per turn 3 turns per end
+[ABC-DEF] 3 archers per turn 2 turns per end
+Always start with archer nr 1.
+Advanced.
+Club specific settings:
+Name of this computer:
+Use Network (LAN)
+Port number
+USB / Serial
+Serial (arduino)
+Top-Bottom
+T
+op
+B
+ottom
+Practise Arrows
+Select
+d1
+d1
+d1
+d1
+d1
+d1
+d1
+d1
+d1
+d1
+d1
+d1
+

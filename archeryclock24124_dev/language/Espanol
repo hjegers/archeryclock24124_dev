@@ -1,0 +1,192 @@
+Tirada
+Flecha
+P
+Turno
+Tirada doble? (for example on long distances where 2 times 3 arrows  are shot before getting them  from the target). 
+Segundos en Verde
+Segundos en Naranja
+Segundos en Rojo
+Setgundos totales
+Arqueros por contención
+Arquero
+Settings
+Minutos / Segundos?
+Guardar configuración por defecto
+Ocultar íconos
+Usar parlantes de PC para la chicharra
+Tiempo de espera
+Tiempo de tiro.
+Shoot off time (per arrow):
+[A] 1 arquero por turno 1 turno por tirada
+[A-B] 1 arquero por turno 2 turnos por tirada
+[A-B-C] 1 arquero por turno 3 turnos por tirada
+[A-B-C-D] 1 arquero por turno 4 turnos por tirada
+[AB-CD] 2 arqueros por turno dos turnos por tirada
+1 arquero por contención
+1 arquero por turno 2 turnos por tirada
+1 arquero por turno 3 turnos por tirada
+1 arquero por turno 4 turnos por tirada
+2 archers per turn 2 turns per end Get arrows after every end 2 arqueros por turno 2 turnos por tirada. Recuperar flechas en cada tirada
+2 arqueros por turno 2x2 turnos por tirada. Recuperar flechas en cada 2 tiradas. Típicamente usado para distancias largas en donde se hacen dos tiradas de 3 flechas juntas antes de recuperar.
+2 arqueros por turno 2 turnos por tirada, 6 flechas disparadas en 4 minutos. Cada tirada tiene 6 flechas. 1 sola tirada de práctica de 6 flechas.
+Final individual (alternando) tiempo fijo por flecha
+Final por equipos (alternando) tiempo fijo por tirada, tiempo pausado mientras tira el otro equipo
+Sistema 25m1P con 4 arqueros por contención
+Sistema 25m1P con 5 arqueros por contención
+Sistema 25m1P con 6 arqueros por contención
+Guardar configuración actual como configuración F8
+Tiradas de prácitca
+FITA
+Final FITA (Alternada)
+25m1p
+Tiempo
+Shoot off timing
+Tiempo y secuencia
+Tiempo doble
+Turno doble
+mostrar
+Número de contención
+Flecha solo
+Nombre
+Lado izquierdo-Lado derecho
+Tiempo por turno/flecha (round individual)
+Tiempo por tirada (round por equipos)
+Turnos por tirada
+Usar luces BCD como luces ROG en el lado Derecho (Solamente para hardware V2)
+Cerrar
+Guardar configuración como configuración F1.
+Guardar configuración como configuración F2.
+Guardar configuración como configuración F3.
+Guardar configuración como configuración F4.
+Guardar configuración como configuración F5.
+Guardar configuración como configuración F6.
+Guardar configuración como configuración F7.
+Guardar configuración como configuración F8.
+Guardar configuración como configuración F9.
+Guardar configuración como configuración F10.
+Guardar configuración como configuración F11.
+Guardar configuración como configuración F12.
+Usar luces ABCD para 1ros 4 arqueros
+El torneo comienza en:
+Minutos
+min.
+disposición de pantalla
+Sonido
+Escenario
+Cuenta regresiva inicio de Torneo
+Lenguage
+Semáforo
+Usar semáforo en la pantalla
+Show hints
+Sonido por parlante de PC
+Test
+Cuenta regresiva antes de iniciar el Torneo
+Iniciar}
+Menú desaparece luego de
+Segundos
+Cambiar a tirada anterior
+Cambiar a tirada siguiente
+Detener reloj
+Pausar reloj
+Continuar reloj
+Iniciar timer
+Próximo arquero
+Detener último turno de esta tirada
+Conectar placa
+Cambiar al arquero anterior
+Cambiar al arquero siguiente
+Resetear a la 1er (práctica) tirada
+Activar Arquero A
+Activar Arquero B
+Activar Arquero C
+Activar Arquero D
+Redimensionar
+Cerrar programa
+Presionar barra espaciadora o cliquea "Iniciar reloj" para inciar el contador
+Seleccionar primer arquero cliqueando en una flecha
+Lado Izquierdo
+Lado derecho
+Torneo comienza en
+seleccionar arquero del lado derecho
+seleccionar arquero del lado izquierdo
+Presionar barra espaciadora o cliquea botón "Próximo Arquero" para finalizar este turno y comenzar el siguiente
+Presionar barra espaciadora o cliquea el botón "Detener último turno de esta tirada" para finalizar esta tirada
+Conexión
+conectado
+La tarjeta no encontrado
+tarjeta
+Comience la cuenta regresiva siempre entre los extremos.
+Comience cada extremo con la secuencia AB....
+acerca de
+hardware
+select red
+select orange
+select green
+one signal
+two signals
+three signals
+emergency stop
+sound signals
+select red settings
+select orange settings
+select green settings
+external hardware controll
+button 1 (pause)
+button 2 (stop)
+button 3 (next)
+button 4 (archer)
+button 5 (archer)
+Manual
+Follow
+Stop
+in follow mode, this screen uses the input of an external screen/computer via serial or network connection.
+Select location of this screen in the area
+Left side area
+Right side area
+Red
+Orange
+Green
+1 sound signal
+2 sound signals
+3 sound signals
+emergency stop
+left screen
+right screen
+both screens
+Receive input signal from:
+serial
+network (LAN)
+Activar Arquero E
+Activar Arquero F
+[A-B-C-D-E] 1 archer per turn 5 turns per end
+[A-B-C-D-E-F] 1 archer per turn 6 turns per end
+[AB-CD-EF] 2 archers per turn 3 turns per end
+[ABC-DEF] 3 archers per turn 2 turns per end
+Always start with archer nr 1.
+Advanced.
+Club specific settings:
+Name of this computer:
+Use Network (LAN)
+Port number
+USB / Serial
+Serial (arduino)
+Top-Bottom
+T
+op
+B
+ottom
+Practise Arrows
+Select
+d1
+d1
+d1
+d1
+d1
+d1
+d1
+d1
+d1
+d1
+d1
+d1
+

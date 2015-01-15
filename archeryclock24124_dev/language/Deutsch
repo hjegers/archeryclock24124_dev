@@ -1,0 +1,192 @@
+Passe
+Pfeil
+P
+Gruppe
+Doppelte Passen? (zum Beispiel bei großen Distanzen, bei denen vor jeder Auswertung zweimal drei Pfeile geschossen werden)
+Sekunden Grün
+Sekunden Gelb
+Sekunden Rot
+Sekunden Insgesamt
+Schützen pro Ziel
+Schütze
+Einstellungen
+Minuten / Sekunden?
+Als Standardeinstellung speichern.
+Icons verbergen.
+Den PC-Lautsprecher als Hupe verwenden.
+Wartezeit.
+Schießzeit:
+Abschusszeit (pro Pfeil):
+[A] 1 Schütze pro Gruppe 1 Gruppe pro Passe
+[A-B] 1 Schütze pro Gruppe 2 Gruppen pro Passe
+[A-B-C] 1 Schütze pro Gruppe 3 Gruppen pro Passe
+[A-B-C-D] 1 Schütze pro Gruppe 4 Gruppen pro Passe
+[AB-CD] 2 Schützen pro Gruppe 2 Gruppen pro Passe
+1 Schütze pro Ziel.
+1 Schütze pro Gruppe 2 Gruppen pro Passe
+1 Schütze pro Gruppe 3 Gruppen pro Passe
+1 Schütze pro Gruppe 4 Gruppen pro Passe
+2 Schützen pro Gruppe 2 Gruppen pro Passe Auswertung nach jeder Passe
+2 Schützen pro Gruppe 2 x 2 Gruppen pro Passe. (Auswertung nach jeder zweiten Passe.) Üblicherweise bei großen Distanzen verwendet, bei denen vor jeder Auswertung sechs Pfeile geschossen werden. In diesem Fall aber noch immer 3 Pfeile in 2 Minuten.
+2 Schützen pro Gruppe 2 Gruppen pro Passe 6 Pfeile werden in Folge in 4 Minuten geschossen. Jede Passe hat also 6 Pfeile. Es wird nur eine Passe mit 6 Trainingspfeilen geschossen.
+Finalrunde. (Abwechselnd) Feste Zeit pro Pfeil.
+Finalrunde Mannschaft. (Abwechselnd) Feste Zeit pro Passe. Zeit angehalten während die andere Mannschaft schießt.
+25m1P System mit 4 Schützen pro Ziel.
+25m1P System mit 5 Schützen pro Ziel.
+25m1P System mit 6 Schützen pro Ziel.
+Aktuelle Einstellungen als F8-Einstellungen speichern.
+Trainingspasse
+FITA
+FITA Finale (Abwechselnd)
+25m1p
+Zeit
+Abschusszeit
+Zeit und Abfolge
+Doppelte Zeit
+Doppelte Gruppen
+zeige:
+Zielnummer
+nur Pfeil
+Name
+Linke Seite-Rechte Seite
+Zeit pro Gruppe/Pfeil (Einzelrunde)
+Zeit pro Passe (Mannschaftsrunde)
+Gruppen pro Passe. 
+BCD-Lichter als ROG-Lichter auf der rechten Seite verwenden. (nur für V2 Hardware)
+Wähle
+Aktuelle Einstellungen als F1-Einstellungen speichern.
+Aktuelle Einstellungen als F2-Einstellungen speichern.
+Aktuelle Einstellungen als F3-Einstellungen speichern.
+Aktuelle Einstellungen als F4-Einstellungen speichern.
+Aktuelle Einstellungen als F5-Einstellungen speichern.
+Aktuelle Einstellungen als F6-Einstellungen speichern.
+Aktuelle Einstellungen als F7-Einstellungen speichern.
+Aktuelle Einstellungen als F8-Einstellungen speichern.
+Aktuelle Einstellungen als F9-Einstellungen speichern.
+Aktuelle Einstellungen als F10-Einstellungen speichern.
+Aktuelle Einstellungen als F11-Einstellungen speichern.
+Aktuelle Einstellungen als F12-Einstellungen speichern.
+Verwendung von ABCD-Lichtern für die ersten 4 Schützen.
+Wettkampf startet in
+Minuten
+Min.
+Bildschirmaufteilung
+Ton
+Szenario
+Countdown zum Start des Wettkampfs
+Sprache
+Ampel
+Ampel auf Bildschirm verwenden
+Hinweise anzeigen
+Tonsignale über PC-Lautsprecher
+Test
+Countdown-Zeit bis zum Beginn des Wettkampfs:
+Start
+Menü verschwindet nach
+Sekunden
+Wechsel zur vorherigen Passe
+Wechsel zur nächsten Passe
+Timer anhalten
+Timer pausieren
+Timer fortsetzen
+Timer starten
+Nächster Schütze
+Letzte Gruppe dieser Passe anhalten
+Hardware anschließen
+Wechsel zum vorherigen Schützen
+Wechsel zum nächsten Schützen
+Zurücksetzen auf die erste (Trainings-) Passe.
+Schütze A aktivieren
+Schütze B aktivieren
+Schütze C aktivieren
+Schütze D aktivieren
+Größe ändern
+Programm schließen
+  Leertaste oder "Timer starten" zum Starten des Countdown drücken
+  Startenden Schützen durch Klick auf einen Pfeil wählen.
+Linke Seite
+Rechte Seite
+Wettkampf startet in
+Linken Schützen wählen
+Rechten Schützen wählen
+  Leertaste oder "Nächster Schütze" zur Beendigung dieser Runde drücken.
+  Leertaste oder "Letzte Gruppe dieser Passe anhalten" zur Beendigung dieser Passe drücken.
+Anschließen
+verbunden
+Karte nicht gefunden
+Karte
+Countdown starten immer zwischen Gruppen.
+Beginnen Sie jeden Gruppe mit der Sequenz AB....
+über
+Hardware
+select red
+select orange
+select green
+one signal
+two signals
+three signals
+emergency stop
+sound signals
+select red settings
+select orange settings
+select green settings
+external hardware controll
+button 1 (pause)
+button 2 (stop)
+button 3 (next)
+button 4 (archer)
+button 5 (archer)
+Manual
+Follow
+Stop
+in follow mode, this screen uses the input of an external screen/computer via serial or network connection.
+Select location of this screen in the area
+Left side area
+Right side area
+Red
+Orange
+Green
+1 sound signal
+2 sound signals
+3 sound signals
+emergency stop
+left screen
+right screen
+both screens
+Receive input signal from:
+serial
+network (LAN)
+Schütze E aktivieren
+Schütze F aktivieren
+[A-B-C-D-E] 1 archer per turn 5 turns per end
+[A-B-C-D-E-F] 1 archer per turn 6 turns per end
+[AB-CD-EF] 2 archers per turn 3 turns per end
+[ABC-DEF] 3 archers per turn 2 turns per end
+Always start with archer nr 1.
+Advanced.
+Club specific settings:
+Name of this computer:
+Use Network (LAN)
+Port number
+USB / Serial
+Serial (arduino)
+Top-Bottom
+T
+op
+B
+ottom
+Practise Arrows
+Select
+d1
+d1
+d1
+d1
+d1
+d1
+d1
+d1
+d1
+d1
+d1
+d1
+

@@ -1,0 +1,192 @@
+Fine
+Freccia
+P
+Turno
+Doppia fine? 
+Secondi Verde
+Secondi Arancio
+Secondi Rosso
+Totale Secondi
+Arcieri per targa
+Arciere
+Settaggi
+Minuti / Secondi?
+Salva come settaggi di avvio.
+Nascondi Icone.
+Usa altoparlante PC per suoni.
+Tempo d' attesa.
+Tempo di scocco:
+Scatto fuori tempo (per freccia):
+[A] 1 arciere per turno 1 turno per fine
+[A-B] 1 arciere per turno 2 turni per fine
+[A-B-C] 1 arciere per turno 3 turni per fine
+[A-B-C-D] 1 arciere per turno 4 turni per fine
+[AB-CD] 2 arcieri per turno 2 turni per fine
+1 arciere per targa.
+1 arciere per turno 2 turni per fine
+1 arciere per turno 3 turni per fine
+1 arciere per turno 4 turni per fine
+2 arcieri per turno 2 turni per fine prendi le freccie dopo ogni fine
+2 arcieri per turno 2 x 2 turni per fine. (Prendi le frecce ogni 2 fine). Tipicamente usato sulle lunghe distanze dove sono scoccate 6 freccie prima del recupero. Ma in questo caso 3 freccie in 2 minuti.
+2 arcieri per turno 2 turni per fine scoccando 6 freccie in  per end shooting 6 arrows in fila in 4 minuti. Cosi' ogni fine ha 6 freccie. Per pratica c'e' solo 1 fine di 6 freccie.
+Round finale individuale. (Alternativo) Tempo fisso per freccia. 
+Round finale squadre. (Alternativo) Tempo fisso per freccia.
+25m1P sistema con 4 arcieri su targa.
+25m1P sistema con 5 arcieri su targa.
+25m1P sistema con 6 arcieri su targa.
+Salva impostazioni correnti come settaggi F8.
+Pratica
+FITA
+FITA Finali (Alternativo)
+25m1p
+Tempistica
+Tempistica fuori tempo
+Tempistica e sequenze
+Doppio tempo
+Doppio turno
+mostra:
+Numero targa
+solo freccia
+Nome
+Lato sinistro - Lato destro
+Tempo per turno /freccia (round individuale)
+Tempo per fine (round a squadre)
+Turni per fine. 
+Usa luci BCD come luci ROG sul lato destro. (Solo per hardware V2)
+Scegli
+Salva impostazioni correnti come settaggi F1.
+Salva impostazioni correnti come settaggi F2.
+Salva impostazioni correnti come settaggi F3.
+Salva impostazioni correnti come settaggi F4.
+Salva impostazioni correnti come settaggi F5.
+Salva impostazioni correnti come settaggi F6.
+Salva impostazioni correnti come settaggi F7.
+Salva impostazioni correnti come settaggi F8.
+Salva impostazioni correnti come settaggi F9.
+Salva impostazioni correnti come settaggi F10.
+Salva impostazioni correnti come settaggi F11.
+Salva impostazioni correnti come settaggi F12.
+Usa luci ABCD per i primi 4 arcieri.
+L' incontro inizia tra
+Minuti
+min.
+disposizione dello schermo
+Suono
+Scenario
+Conto alla rovescia per l' inizio dell' incontro
+Lingua
+Semaforo
+Usa il semaforo sullo schermo
+Mostra le note
+Suono tramite altoparlante PC
+Test
+Tempo conto alla rovescia prima dell' inizio dell' incontro:
+inizio
+Il menu scompare dopo  
+Secondi
+Vai alla fine precedente
+Vai alla fine successiva
+Stop Timer
+Pausa Timer
+Riprendi Timer
+Inizio Timer
+Prossimo arciere
+Ferma all' ultimo turno di questa fine
+Collega l' hardware
+Vai all' arciere precedente
+Vai all' arciere successivo
+Riavvia (pratica) fine.
+Attiva Arciere A
+Attiva Arciere B
+Attiva Arciere C
+Attiva Arciere D
+Ridimensiona
+Chiudi programma
+  Premi la barra spaziatrice o clicca sul pulsante "Inizia Timer" per far partire il conto alla rovescia  
+  Scegli l' arciere che parte cliccando su una freccia.
+Lato sinistro
+Lato destro
+L' incontro inizia in
+seleziona l' arciere destro
+seleziona l' arciere sinistro
+  Premi la barra spaziatrice o clicca sul pulsante "Prossimo Arciere" per finire questo turno ed andare al prossimo.    
+  Premi la barra spaziatrice o clicca sul pulsante "Ferma ultimo turno" per terminare.    
+Collegamento
+collegato
+Carta non trovata
+scheda
+Inizia il conto alla rovescia sempre tra le estremità.
+Inizia ogni estremità con la sequenza AB....
+circa
+hardware
+select red
+select orange
+select green
+one signal
+two signals
+three signals
+emergency stop
+sound signals
+select red settings
+select orange settings
+select green settings
+external hardware controll
+button 1 (pause)
+button 2 (stop)
+button 3 (next)
+button 4 (archer)
+button 5 (archer)
+Manual
+Follow
+Stop
+in follow mode, this screen uses the input of an external screen/computer via serial or network connection.
+Select location of this screen in the area
+Left side area
+Right side area
+Red
+Orange
+Green
+1 sound signal
+2 sound signals
+3 sound signals
+emergency stop
+left screen
+right screen
+both screens
+Receive input signal from:
+serial
+network (LAN)
+Attiva Arciere E
+Attiva Arciere F
+[A-B-C-D-E] 1 archer per turn 5 turns per end
+[A-B-C-D-E-F] 1 archer per turn 6 turns per end
+[AB-CD-EF] 2 archers per turn 3 turns per end
+[ABC-DEF] 3 archers per turn 2 turns per end
+Always start with archer nr 1.
+Advanced.
+Club specific settings:
+Name of this computer:
+Use Network (LAN)
+Port number
+USB / Serial
+Serial (arduino)
+Top-Bottom
+T
+op
+B
+ottom
+Practise Arrows
+Select
+d1
+d1
+d1
+d1
+d1
+d1
+d1
+d1
+d1
+d1
+d1
+d1
+

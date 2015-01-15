@@ -1,0 +1,192 @@
+Volée
+Flèche
+P
+Tour
+Double Tirs? (par exemple sur les longues distances ou on tire 2 fois trois flèches avant de récupérer les retirer).
+Seconds Verte
+Seconds Orange
+Seconds Rouge
+Seconds Total
+Archers par Cible
+Archer
+Configuration
+Minutes / Secondes?
+Sauvegarde Configuration
+Cacher Icônes
+Utiliser le HP PC pour le Buzzer.
+Temps d'attente:
+Temps de tir:
+Temps Shoot off (par flèche):
+[A] 1 archer par tour, 1 tour par volée
+[A-B] 1 archer par tour, 2 tours par volée
+[A-B-C] 1 archer par tour 3 tours par volée
+[A-B-C-D] 1 archer par tour, 4 tours par volée
+[AB-CD] 2 archers par tour, 2 tours par volée
+1 archer par cible.
+1 archer par tour, 2 tours par volée
+1 archer par tour, 3 tours par volée
+1 archer par tour, 4 tours par volée
+2 archers par tour, 2 tours par volée. Récupération flèche après chaque volée.
+2 archers par tour, 2 X 2 tours par volée. (Récupération fléches après chaque 2 volées). Typiquement utilisé sur les longues distances ou 6 flèches sont tirées avant récupération. Mais dans ce cas, toujours 3 flèches en  2 minutes.
+2 archers par tour, 2 tours par volée, tirant 6 flèches dans une ligne en 4 minutes. Donc chaque volée possède 6 flèches. Entrainement = 1 serie de 6 flèches.
+Finale Individuelle. (En alternance) Temps fixe par flèche.
+Finale en équipe. (En alternance) Temps fixe par volée. Le temps est stoppé lorsque l'autre équipe tire.
+Système 25m1P avec 4 archers sur une cible.
+Système 25m1P avec 5 archers sur une cible.
+Système 25m1P avec 6 archers sur une cible.
+Sauvegarde configuration courante en config. F8.
+Fin d’entraînement
+FITA
+Finales FITA (En alternance)
+25m1p
+chronométrage
+Chronométrage Chronométrage Shoot off
+Timing et séquence
+Double temps
+Double tours
+Afficher :
+Numéro de cible
+Flèche seulement
+Nom
+Coté Gauche-Coté Droit
+Temps par tour (/flèche en volée individuelle)
+Temps par volée (volée en équipe)
+Tours par volée.
+Utiliser éclairage BCD comme éclairage ROG sur le coté droit. (Pour la version 2 du matériel seulement)
+Choisir
+Sauvegarde configuration courante en config. F1.
+Sauvegarde configuration courante en config. F2.
+Sauvegarde configuration courante en config. F3.
+Sauvegarde configuration courante en config. F4.
+Sauvegarde configuration courante en config. F5.
+Sauvegarde configuration courante en config. F6.
+Sauvegarde configuration courante en config. F7.
+Sauvegarde configuration courante en config. F8.
+Sauvegarde configuration courante en config. F9.
+Sauvegarde configuration courante en config. F10.
+Sauvegarde configuration courante en config. F11.
+Sauvegarde configuration courante en config. F12.
+Utiliser éclairage ABCD pour les 4 premiers archers.
+Début de compétition dans
+Minutes
+min.
+Disposition de l'écran
+Son
+Scénario
+Décompte avant départ compétition
+Langue
+Feu Tricolore
+Utiliser les feux tricolores à l’écran
+Afficher astuces/aides
+Son via le HP PC
+Test
+Décompte avant départ compétition:
+Départ
+Le menu disparaît après
+Secondes
+Basculer à la volée précédente
+Basculer à la volée suivante
+Arrêter Timer
+Mettre en pause Timer
+Reprendre Timer
+Démarrer Timer
+Archer suivant
+Arrêter dernier tour de cette volée
+Connecter matériel
+Basculer à l'archer précédent
+Basculer à l'archer suivant
+Initialiser à la première volée (entraînement).
+Activer Archer A
+Activer Archer B
+Activer Archer C
+Activer Archer D
+Redimensionner
+Fermer le programme
+Appuyer sur le barre d'espace ou cliquer le bouton "Démarrer Timer" pour démarer le compte à rebours
+Choisissez l'archer qui commence en cliquant sur une flèche.
+Coté gauche
+Coté droit
+La compétition démarre dans
+Sélectionner Archer droitier
+Sélectionner Archer gaucher
+Appuyer sur le barre d'espace ou cliquer le bouton "Archer suivant" pour terminer le tour et passer au suivant.
+Appuyer sur le barre d'espace ou cliquer le bouton "Arrêter le dernier tour de cette volée" pour terminer cette volée.
+de liaison
+lié
+Carte introuvable
+carte
+Lancer le compte à rebours toujours entre les extrémités.
+Commencez chaque fin de séquence AB.....
+sur
+matériel
+select red
+select orange
+select green
+one signal
+two signals
+three signals
+emergency stop
+sound signals
+select red settings
+select orange settings
+select green settings
+external hardware controll
+button 1 (pause)
+button 2 (stop)
+button 3 (next)
+button 4 (archer)
+button 5 (archer)
+Manual
+Follow
+Stop
+in follow mode, this screen uses the input of an external screen/computer via serial or network connection.
+Select location of this screen in the area
+Left side area
+Right side area
+Red
+Orange
+Green
+1 sound signal
+2 sound signals
+3 sound signals
+emergency stop
+left screen
+right screen
+both screens
+Receive input signal from:
+serial
+network (LAN)
+Activer Archer E
+Activer Archer F
+[A-B-C-D-E] 1 archer per turn 5 turns per end
+[A-B-C-D-E-F] 1 archer per turn 6 turns per end
+[AB-CD-EF] 2 archers per turn 3 turns per end
+[ABC-DEF] 3 archers per turn 2 turns per end
+Always start with archer nr 1.
+Advanced.
+Club specific settings:
+Name of this computer:
+Use Network (LAN)
+Port number
+USB / Serial
+Serial (arduino)
+Top-Bottom
+T
+op
+B
+ottom
+Practise Arrows
+Select
+d1
+d1
+d1
+d1
+d1
+d1
+d1
+d1
+d1
+d1
+d1
+d1
+

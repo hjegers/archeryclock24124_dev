@@ -1,0 +1,192 @@
+Sor
+Vesszõ
+B
+Kör
+Dupla sorozat? (pl. hosszú táv, 2 X 3 vesszõ húzás elõtt.)
+Zöld mp
+Sárga mp
+Piros mp
+Mp összesen
+Íjász célonként
+Íjász
+Beállítások
+Perc/Másodperc
+Ez legyen a beállítás indításkor!
+Ikonok elrejtése
+PC hangszóró dudaként
+várakozási idõ.
+Lövésidõ:
+Szétlövés idõ (vesszõnként):
+[A] 1 íjász körönként, 1 kör sorozatonként.
+[A-B] 1 íjász körönként, 2 kör sorozatonként.
+[A-B-C] 1 íjász körönként, 3 kör sorozatonként.
+[A-B-C-D] 1 íjász körönként, 4 kör sorozatonként.
+[AB-CD] 2 íjász körönként, 2 kör sorozatonként.
+1 íjász célonként.
+1 íjász körönként, 2 kör sorozatonként.
+1 íjász körönként, 3 kör sorozatonként.
+1 íjász körönként, 4 kör sorozatonként.
+2 íjász körönként, 2 kör sorozatonként. Húzás minden sorozat után.
+2 íjász körönként, 2 X 2 forduló/sorozat. (Húzás minden sorozat végén.) Általában hosszú távokon használatos, ahol elõzõleg 6 vesszõvel lõtték a sorozatot.
+2 íjász/forduló, 2 forduló/sorozat, 6 vesszõ 4 perc alatt. Minden sorozat 6 vesszõbõl áll. Belövés 1 sorozat, 6 vesszõvel.
+Egyéni döntõ forduló. (Váltott) fix idõ vesszõnként.
+Csapat döntõ forduló. (Váltott) fix idõ sorozatonként. Idõ szüneteltetése, amíg a másik csapat lõ.
+25m1P rendszer 4 íjász egy célra.
+25m1P rendszer 5 íjász egy célra.
+25m1P rendszer 6 íjász egy célra.
+Aktuális beállítások mentése az F8-ra.
+Belövés sorozatok
+FITA
+FITA döntõk (Váltott)
+25mP1
+Idõmérés
+Szétlövés idõmérés
+Idõzítés
+Dupla idõ
+Dupla forduló
+mutat:
+Cél száma
+Csak vesszõ
+Név
+Bal oldal-Jobb oldal
+Idõ fordulónként/vesszõnként (egyéni)
+Idõ sorozatonként (csapat)
+forduló sorozatonként.
+
+Választ
+Aktuális beállítások mentése az F1-re.
+Aktuális beállítások mentése az F2-re.
+Aktuális beállítások mentése az F3-ra.
+Aktuális beállítások mentése az F4-re.
+Aktuális beállítások mentése az F5-re.
+Aktuális beállítások mentése az F6-ra.
+Aktuális beállítások mentése az F7-re.
+Aktuális beállítások mentése az F8-ra.
+Aktuális beállítások mentése az F9-re.
+Aktuális beállítások mentése az F10-re.
+Aktuális beállítások mentése az F11-re.
+Aktuális beállítások mentése az F12-re.
+ABCD fények használata az elsõ 4 íjásznál.
+A kezdésig hátralevõ idõ:
+Perc
+Perc
+Képernyõ elrendezés
+Hang
+Idõbeosztások
+Visszaszámlálás
+Nyelv
+Közlekedési lámpa
+Közlekedési lámpa a képernyõn
+Tippek mutatása
+Hang a PC hangszórón keresztül
+Teszt
+A kezdésig hátralevõ idõ:
+Indítás
+A menü eltûnik
+Másodperc után.
+Ugrás az elõzõ sorozatra.
+Ugrás a következõ sorozatra.
+Óra leállítása
+Óra szüneteltetése
+Óra visszaállítása
+Óra indítása
+Következõ íjász
+A sorozat utolsó fordulójának megállítása
+Eszköz csatlakoztatása
+Ugrás az elõzõ íjászra
+Ugrás a következõ íjászra
+Vissza az elsõ (belövõ) sorozathoz.
+A íjász aktiválása
+B íjász aktiválása
+C íjász aktiválása
+D íjász aktiválása
+Átméretezés
+Program bezárása
+Nyomd le a Space-t vagy kattints az "Óra indítása" gombra a visszaszámlálás megkezdéséhez
+Válassz kezdõ íjászt a nyilak egyikére történõ kattintással.
+Bal oldal
+Jobb oldal
+A kezdésig hátralevõ idõ:
+jobb oldali íjász kiválasztása
+bal oldali íjász kiválasztása
+Nyomd le a Space-t vagy kattints a "Következõ íjász" gombra a forduló befejezéséhez és a következõ fordulóra történõ ugráshoz.
+Nyomd le a Space-t vagy kattints a "Sorozat utolsó fordulójának leállítása" gombra a sorozat befejezéséhez.
+csatlakoztatása
+összefüggő
+Kártya nem található
+kártya
+Indítsa el a visszaszámlálást között legyen vége.
+Kezdje végén sorozat AB....
+körülbelül
+hardver
+select red
+select orange
+select green
+one signal
+two signals
+three signals
+emergency stop
+sound signals
+select red settings
+select orange settings
+select green settings
+external hardware controll
+button 1 (pause)
+button 2 (stop)
+button 3 (next)
+button 4 (archer)
+button 5 (archer)
+Manual
+Follow
+Stop
+in follow mode, this screen uses the input of an external screen/computer via serial or network connection.
+Select location of this screen in the area
+Left side area
+Right side area
+Red
+Orange
+Green
+1 sound signal
+2 sound signals
+3 sound signals
+emergency stop
+left screen
+right screen
+both screens
+Receive input signal from:
+serial
+network (LAN)
+E íjász aktiválása
+F íjász aktiválása
+[A-B-C-D-E] 1 archer per turn 5 turns per end
+[A-B-C-D-E-F] 1 archer per turn 6 turns per end
+[AB-CD-EF] 2 archers per turn 3 turns per end
+[ABC-DEF] 3 archers per turn 2 turns per end
+Always start with archer nr 1.
+Advanced.
+Club specific settings:
+Name of this computer:
+Use Network (LAN)
+Port number
+USB / Serial
+Serial (arduino)
+Top-Bottom
+T
+op
+B
+ottom
+Practise Arrows
+Select
+d1
+d1
+d1
+d1
+d1
+d1
+d1
+d1
+d1
+d1
+d1
+d1
+
